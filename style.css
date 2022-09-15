@@ -9,9 +9,14 @@ background: -webkit-linear-gradient(0deg, rgba(0,255,168,1) 0%, rgba(0,182,255,1
 background: linear-gradient(0deg, rgba(0,255,168,1) 0%, rgba(0,182,255,1) 50%, rgba(129,25,245,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00ffa8",endColorstr="#8119f5",GradientType=1);
 color: black;
+
 font-family: 'Verdana';
 text-align: center;
 text-shadow: 0px 3px 3px rgba(36,41,81,0.6);
+}
+
+img {
+  border-radius: 8%;
 }
 
 footer {
