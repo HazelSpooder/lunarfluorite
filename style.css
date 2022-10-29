@@ -4,10 +4,10 @@
 
 body {
 background: rgb(0,255,168);
-background: -moz-linear-gradient(0deg, rgba(0,255,168,1) 0%, rgba(0,182,255,1) 50%, rgba(129,25,245,1) 100%);
-background: -webkit-linear-gradient(0deg, rgba(0,255,168,1) 0%, rgba(0,182,255,1) 50%, rgba(129,25,245,1) 100%);
-background: linear-gradient(0deg, rgba(0,255,168,1) 0%, rgba(0,182,255,1) 50%, rgba(129,25,245,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00ffa8",endColorstr="#8119f5",GradientType=1);
+background: -moz-linear-gradient(0deg, rgba(198,148,255,1) 0%, rgba(130,221,225,1) 50%, rgba(128,255,216,1) 100%);
+background: -webkit-linear-gradient(0deg, rgba(198,148,255,1) 0%, rgba(130,221,225,1) 50%, rgba(128,255,216,1)  100%);
+background: linear-gradient(0deg, rgba(198,148,255,1) 0%, rgba(130,221,225,1) 50%, rgba(128,255,216,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c694ff",endColorstr="#80ffd8",GradientType=1);
 color: black;
 
 font-family: 'Verdana';
