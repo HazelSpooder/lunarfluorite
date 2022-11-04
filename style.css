@@ -10,6 +10,10 @@ background: linear-gradient(0deg, rgba(198,148,255,1) 0%, rgba(130,221,225,1) 50
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c694ff",endColorstr="#80ffd8",GradientType=1);
 color: black;
 
+
+max-width: 100%;
+overflow-x: hidden;
+
 font-family: 'Verdana';
 text-align: center;
 text-shadow: 0px 3px 3px rgba(36,41,81,0.6);
